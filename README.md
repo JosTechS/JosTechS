@@ -3,12 +3,16 @@
 ### `❯ whoami`
 
 **J. Rafael Otero** · JosTechS<br>
-Software Developer | Team Lead<br>
+Software Developer | Development Team Lead<br>
 Visma | Rex+ · Chile
 
 ### `❯ cat about.txt`
 
-I build fullstack software and web and mobile applications. My interests include software architecture and artificial intelligence. I keep learning to build useful software solutions.
+I'm a software developer and development team lead based in Chile, building web and mobile applications across the stack. I believe software should always offer a solution to a real problem. That's what the **S in JosTechS** stands for: **Solutions**.
+
+I care about maintainable code, clear architecture, and practical technical decisions that help teams understand, improve, and evolve their software. That same clarity should reach the people using it: I aim to create accessible, self-explanatory user experiences that make it easy to understand what to do and how to move forward.
+
+I keep learning and exploring artificial intelligence, automation, and new technologies through my work and personal projects, always looking for ways to solve everyday problems and make software more useful.
 
 ### `❯ grep -A 10 '^stack:' profile.yml`
 
